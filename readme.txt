@@ -1,143 +1,27 @@
-<div align="center">
+# 💫 About Me:
+I’m currently working on<br>Custom WordPress plugins, automation scripts & CPT-based systems (students, results, certificates)<br><br>👯 I’m looking to collaborate on<br>Advanced WordPress plugins, performance optimization & automation projects<br><br>🤝 I’m looking for help with<br>Scaling large WordPress sites & modern JS integrations (React / Headless WP)<br><br>🌱 I’m currently learning<br>WordPress REST API, better database optimization & clean architecture<br><br>💬 Ask me about<br>WordPress plugins, critical error fixes, bulk imports, image automation & debugging nightmares 😅<br><br>⚡ Fun fact<br>I enjoy fixing bugs that others give up on 🐞⚔️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=180&section=header&text=Malik&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B26CFF&center=true&vCenter=true&width=600&lines=WordPress+Developer;Custom+Plugin+Specialist;Automation+%26+Bulk+Processing;Bug+Fixer+by+Passion" />
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:#) 
 
-<br>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DrSmoK3y&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DrSmoK3y&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrSmoK3y&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://img.shields.io/badge/WordPress-Expert-7F3FBF?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-Advanced-5E2B97?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-Lover-4B1F73?style=for-the-badge"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DrSmoK3y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-<div style="background:#0d0b14;padding:25px;border-radius:16px">
-
-<h2 style="color:#b26cff;">💜 About Me</h2>
-
-<p style="color:#d8ccff;line-height:1.7">
-I’m a <b>WordPress Developer</b> who builds powerful systems using custom plugins,
-automation scripts, and deep WordPress internals.
-</p>
-
-<p style="color:#d8ccff">
-I enjoy solving problems that feel impossible — until they suddenly work 😎
-</p>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DrSmoK3y&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DrSmoK3y&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<div style="background:#120f1c;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">🛠 Tech Stack</h2>
-
-<table>
-<tr>
-<td style="color:#d8ccff">
-
-<b>Backend</b><br>
-• PHP (WP Core)<br>
-• Custom Plugins<br>
-• Hooks & Filters<br>
-• REST API<br>
-• MySQL
-
-</td>
-<td style="color:#d8ccff">
-
-<b>Frontend</b><br>
-• HTML / CSS<br>
-• JavaScript / jQuery<br>
-• Elementor (Advanced)<br>
-• Responsive Fixes
-
-</td>
-<td style="color:#d8ccff">
-
-<b>Automation</b><br>
-• Bulk Imports<br>
-• Image Downloaders<br>
-• Cleanup Jobs<br>
-• Scheduled Tasks
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div style="background:#0f0c18;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">⚡ What I Do Best</h2>
-
-<ul style="color:#d8ccff;line-height:1.9">
-<li>🔥 Custom WordPress Plugin Development</li>
-<li>🧩 CPT-Based Systems (Students, Results, Certificates)</li>
-<li>🛠 Fixing Critical Errors & JSON Issues</li>
-<li>📦 Bulk Image & Data Processing</li>
-<li>🔐 Performance & Security Optimization</li>
-</ul>
-
-</div>
-
----
-
-<div style="background:#120f1c;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">📊 Skill Power</h2>
-
-<pre style="background:#0b0912;color:#d8ccff;padding:15px;border-radius:12px">
-WordPress Core        ██████████████ 95%
-PHP                  █████████████  90%
-Custom Plugins       █████████████  90%
-Debugging            ██████████████ 95%
-Automation Scripts   ████████████   85%
-</pre>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-
-</div>
-
----
-
-<div style="background:#0d0b14;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">🤝 Let’s Connect</h2>
-
-<p style="color:#d8ccff">
-📧 Email: your@email.com<br>
-🌐 Website: yourwebsite.com<br>
-💬 Open for collaboration & wild WordPress ideas
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
-
-<b style="color:#b26cff;">💜 Code smart. Automate more. Break limits. 💜</b>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
