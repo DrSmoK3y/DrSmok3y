@@ -1,143 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=180&section=header&text=Malik&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=DrSmoK3y&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=WordPress%20Wizard%20%7C%20Plugin%20Architect&descAlignY=65&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B26CFF&center=true&vCenter=true&width=600&lines=WordPress+Developer;Custom+Plugin+Specialist;Automation+%26+Bulk+Processing;Bug+Fixer+by+Passion" />
+<!-- Dynamic Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=B26CFF&center=true&vCenter=true&width=600&lines=System.init(%22WordPress%22);Developing+Custom+Plugins...;Optimizing+Core+Performance...;Executing+Automation+Scripts...;Solving+Impossible+Bugs;" />
 
-<br>
-
-<img src="https://img.shields.io/badge/WordPress-Expert-7F3FBF?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-Advanced-5E2B97?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-Lover-4B1F73?style=for-the-badge"/>
-
-</div>
-
----
-
-<div style="background:#0d0b14;padding:25px;border-radius:16px">
-
-<h2 style="color:#b26cff;">💜 About Me</h2>
-
-<p style="color:#d8ccff;line-height:1.7">
-I’m a <b>WordPress Developer</b> who builds powerful systems using custom plugins,
-automation scripts, and deep WordPress internals.
-</p>
-
-<p style="color:#d8ccff">
-I enjoy solving problems that feel impossible — until they suddenly work 😎
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Expert-7F3FBF?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-Advanced-5E2B97?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full_Stack-Automation-4B1F73?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-<div style="background:#120f1c;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">🛠 Tech Stack</h2>
-
+### ⚡ Status: Scripting the Future
+<div align="center">
 <table>
-<tr>
-<td style="color:#d8ccff">
-
-<b>Backend</b><br>
-• PHP (WP Core)<br>
-• Custom Plugins<br>
-• Hooks & Filters<br>
-• REST API<br>
-• MySQL
-
-</td>
-<td style="color:#d8ccff">
-
-<b>Frontend</b><br>
-• HTML / CSS<br>
-• JavaScript / jQuery<br>
-• Elementor (Advanced)<br>
-• Responsive Fixes
-
-</td>
-<td style="color:#d8ccff">
-
-<b>Automation</b><br>
-• Bulk Imports<br>
-• Image Downloaders<br>
-• Cleanup Jobs<br>
-• Scheduled Tasks
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <p>👋 <b>Salaam! I'm DrSmoK3y</b></p>
+      <p>Mein ek specialized WordPress Developer hoon jo sirf sites nahi banata, balke <b>Powerful Backend Systems</b> khara karta hai. </p>
+      <p>Custom Plugins, Hook-based architectures, aur bulk data handling meri specialty hai. Jab normal plugins har maan jate hain, wahan mera kaam shuru hota hai. 🚀</p>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSmoK3y&layout=compact&theme=radical&hide_border=true&title_color=B26CFF&icon_color=7F3FBF" alt="Top Langs" />
+    </td>
+  </tr>
 </table>
-
 </div>
 
 ---
 
-<div style="background:#0f0c18;padding:25px;border-radius:16px;margin-top:20px">
+### 🛠 Tools of the Trade (The Arsenal)
 
-<h2 style="color:#b26cff;">⚡ What I Do Best</h2>
-
-<ul style="color:#d8ccff;line-height:1.9">
-<li>🔥 Custom WordPress Plugin Development</li>
-<li>🧩 CPT-Based Systems (Students, Results, Certificates)</li>
-<li>🛠 Fixing Critical Errors & JSON Issues</li>
-<li>📦 Bulk Image & Data Processing</li>
-<li>🔐 Performance & Security Optimization</li>
-</ul>
-
-</div>
+| **WordPress Core** | **Backend Power** | **Automation/UI** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Custom_Plugins-7F3FBF?style=flat-square&logo=wordpress"/> | <img src="https://img.shields.io/badge/-Advanced_PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/-Bulk_Scrapers-orange?style=flat-square"/> |
+| <img src="https://img.shields.io/badge/-API_Integration-5E2B97?style=flat-square&logo=json"/> | <img src="https://img.shields.io/badge/-MySQL_Optimization-4479A1?style=flat-square&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/-Elementor_Pro-D63384?style=flat-square&logo=elementor"/> |
+| <img src="https://img.shields.io/badge/-Hook_Expert-white?style=flat-square&logo=wordpress&logoColor=black"/> | <img src="https://img.shields.io/badge/-REST_API-4B1F73?style=flat-square"/> | <img src="https://img.shields.io/badge/-JavaScript_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 
 ---
 
-<div style="background:#120f1c;padding:25px;border-radius:16px;margin-top:20px">
-
-<h2 style="color:#b26cff;">📊 Skill Power</h2>
-
-<pre style="background:#0b0912;color:#d8ccff;padding:15px;border-radius:12px">
-WordPress Core        ██████████████ 95%
-PHP                  █████████████  90%
-Custom Plugins       █████████████  90%
-Debugging            ██████████████ 95%
-Automation Scripts   ████████████   85%
-</pre>
-
-</div>
-
----
+### 🚀 Performance Metrics (Action Mode)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple" />
+<!-- GitHub Snake Animation (Classic Flashy Element) -->
+<img src="https://github-screens.vercel.app/api/snake?user=DrSmoK3y&color=%237F3FBF" alt="Snake Animation" width="100%" />
 
-<br><br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-stats.vercel.app/api?username=DrSmoK3y&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrSmoK3y&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-<div style="background:#0d0b14;padding:25px;border-radius:16px;margin-top:20px">
+### 🧬 WordPress DNA (Core Expertise)
 
-<h2 style="color:#b26cff;">🤝 Let’s Connect</h2>
+- ⚡ **The Flash Fix:** Debugging fatal errors in record time.
+- 📦 **The Architect:** Creating CPT/Taxonomy systems that handle millions of rows.
+- 🤖 **The Automator:** Cron jobs, bulk image downloaders, and API synchronizers.
+- 🎨 **Pixel Perfect:** Converting complex Figma designs into high-performance WP themes.
 
-<p style="color:#d8ccff">
-📧 Email: your@email.com<br>
-🌐 Website: yourwebsite.com<br>
-💬 Open for collaboration & wild WordPress ideas
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
-
-<b style="color:#b26cff;">💜 Code smart. Automate more. Break limits. 💜</b>
-
-</div>
+```php
+<?php
+class DrSmoK3y {
+    public function goal() {
+        return "Convert Caffeine ☕ into Clean Code 💻";
+    }
+}
+// Action Hook for Greatness
+add_action('init', array('DrSmoK3y', 'goal'));
