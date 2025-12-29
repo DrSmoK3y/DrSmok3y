@@ -94,7 +94,10 @@ Description: Activating maximum performance and bug-free life.
 add_action('wp_footer', function() {
     $current_mode = "ULTRA_INSTINCT_CODING";
     echo "Current Status: " . strtolower($current_mode);
-});<div align="center">
+});
+```
+
+<div align="center">
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/GMAIL-ALERT-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
