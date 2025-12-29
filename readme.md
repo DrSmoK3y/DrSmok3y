@@ -106,11 +106,11 @@ Automation Scripts   ████████████   85%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple" />
+<img src="https://github-readme-stats.vercel.app/api?username=DrSmoK3y&show_icons=true&theme=midnight-purple" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrSmoK3y&theme=midnight-purple" />
 
 <br><br>
 
