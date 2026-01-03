@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=ffffff&animation=twinkling&desc=PREMIUM%20WORDPRESS%20ARCHITECT&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=242424&height=250&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=ffffff&animation=twinkling&desc=PREMIUM%20WORDPRESS%20ARCHITECT&descAlignY=70" width="100%"/>
 
 <!-- TOP GLOWING STATUS -->
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=ffffff&labelColor=000000" /> 
