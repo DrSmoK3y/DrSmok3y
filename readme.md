@@ -1,16 +1,5 @@
 <div align="center">
 
-8888888b.          .d8888b.                         888    d8P   .d8888b.           
-888  "Y88b        d88P  Y88b                        888   d8P   d88P  Y88b          
-888    888        Y88b.                             888  d8P         .d88P          
-888    888 888d888 "Y888b.   88888b.d88b.   .d88b.  888d88K         8888"  888  888 
-888    888 888P"      "Y88b. 888 "888 "88b d88""88b 8888888b         "Y8b. 888  888 
-888    888 888          "888 888  888  888 888  888 888  Y88b   888    888 888  888 
-888  .d88P 888    Y88b  d88P 888  888  888 Y88..88P 888   Y88b  Y88b  d88P Y88b 888 
-8888888P"  888     "Y8888P"  888  888  888  "Y88P"  888    Y88b  "Y8888P"   "Y88888 
-                                                                                888 
-                                                                           Y8b d88P 
-                                                                            "Y88P"  
 
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=141414&height=250&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=ffffff&animation=twinkling&desc=PREMIUM%20WORDPRESS%20ARCHITECT&descAlignY=70" width="100%"/>
