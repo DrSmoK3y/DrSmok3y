@@ -77,7 +77,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DrSmoK3y&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrSmoK3y&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" width="48%" />
 
 </div>
@@ -88,8 +87,6 @@
 
 <div align="center">
   
-  <!-- Trophy Widget -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DrSmoK3y&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
   
   <br/><br/>
 
@@ -101,8 +98,6 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSmoK3y&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8&count_private=true" width="48%"/>
   
-  <!-- WakaTime Stats (if you use WakaTime) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrSmoK3y&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact" width="48%"/>
 
 </div>
 
