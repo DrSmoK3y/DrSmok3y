@@ -95,13 +95,11 @@
 
   <br/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSmoK3y&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8&count_private=true" width="48%"/>
+
 
   <div style="text-align:center;">
   <img 
     src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/main/loenese-translation-1779298785684.png"
     style="width:50%; margin:30px 0;"
   />
-</div>
 </div>
