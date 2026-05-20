@@ -46,7 +46,7 @@
 ### 🛠 ARSENAL (The Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,js,jquery,github,vscode,html,css,linux,postman,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,js,ts,jquery,html,css,git,github,vscode,linux,postman,tailwind,nodejs,react,nextjs,graphql,docker,woocommerce,npm,figma&theme=dark" />
 </div>
 
 <br/>
