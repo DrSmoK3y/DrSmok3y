@@ -3,7 +3,6 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=141414&height=250&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=ffffff&animation=twinkling&desc=WordPress%20Website%20Developer&descAlignY=70" width="100%"/>
-<img src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/main/loenese-translation-1779298785684.png" />
 
 <!-- TOP GLOWING STATUS -->
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=ffffff&labelColor=000000" /> 
@@ -98,6 +97,13 @@
 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSmoK3y&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8&count_private=true" width="48%"/>
+
+  <div style="text-align:center;">
+  <img 
+    src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/main/loenese-translation-1779298785684.png"
+    style="width:50%; margin:30px 0;"
+  />
+</div>
   
 
 </div>
