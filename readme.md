@@ -6,7 +6,7 @@
 
 <!-- TOP GLOWING STATUS -->
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=ffffff&labelColor=000000" /> 
-<img src="https://img.shields.io/badge/LEVEL-99_WP_MAGE-white?style=for-the-badge&logo=opsgenie&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/SEQUENCE-0?style=for-the-badge&logo=opsgenie&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/AUTO_PILOT-ENABLED-white?style=for-the-badge&logo=airplay&logoColor=black&labelColor=000000" />
 
 <br/><br/>
