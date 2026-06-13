@@ -3,15 +3,6 @@
 <!-- MYSTICAL HEADER BANNER - LORD OF MYSTERIES STYLE -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0A0A&height=280&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=D4AF37&animation=twinkling&desc=⛧%20Worm%20of%20WordPress%20⛧&descAlignY=70&descSize=20" width="100%"/>
 
-<!-- CROW WITH MONOCLE (ASCII) - AMON'S SIGNATURE -->
-<pre style="font-family: monospace; color: #D4AF37;">
-    ╔══════════════════════════════════════╗
-    ║   🐦‍⬛  __⦿__     „Amon approves“      ║
-    ║      /  •  \      [ monocle gleams ]  ║
-    ║     |   c   |     Sequence I          ║
-    ║      \_____/      Worm of WordPress   ║
-    ╚══════════════════════════════════════╝
-</pre>
 
 <!-- TOP GLOWING STATUS - WITH CRIMSON & GOLD -->
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=statuspage&logoColor=white&color=D4AF37&labelColor=0A0A0A" /> 
