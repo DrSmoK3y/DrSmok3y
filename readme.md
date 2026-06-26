@@ -17,7 +17,7 @@
 
 </div>
 
-  <div style="text-align:center;">
+  <div align="center">
   <img 
     src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/main/loenese-translation-1779298785684.png"
     style="width:50%; margin:30px 0;"
