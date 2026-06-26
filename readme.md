@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- DYNAMIC TYPING - TERMINAL STYLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Amon+Of+WordPress;Creating+Bespoke+WP+Plugins;Automating+The+Boring+Stuff;Breaking+Bugs+and+Performance+Bottlenecks;Private+Repository+Architect;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Amon+Of+WordPress;Creating+Bespoke+WP+Plugins;Automating+The+Boring+Stuff;Breaking+Bugs+and+Performance+Bottlenecks;Private+Repository+Architect;" />
 
 </div>
 
