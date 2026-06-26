@@ -19,7 +19,7 @@
 
   <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/main/loenese-translation-1779298785684.png"
+    src="https://raw.githubusercontent.com/DrSmoK3y/DrSmok3y/refs/heads/main/loenese-translation-1782492808586.png"
     style="width:50%; margin:30px 0;"
   />
 </div>
