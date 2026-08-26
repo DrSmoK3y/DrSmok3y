@@ -3,6 +3,7 @@
 
 
 <!-- ANIMATED HEADER BANNER -->
+<img src="https://gh-ascii.vercel.app/DrSmoK3y?theme=dark&cols=140" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=141414&height=250&section=header&text=DrSmoK3y&fontSize=80&fontWeight=600&fontColor=ffffff&animation=twinkling&desc=WordPress%20Website%20Developer&descAlignY=70" width="100%"/>
 
 <!-- TOP GLOWING STATUS -->
